@@ -54,8 +54,10 @@ I'm currently working on a few learning-based projects like:
 
 I'm always open to connect with fellow learners and devs:
 
-- 📧 **Email:** [Manishkafle49@gmail.com](mailto:Manishkafle49@gmail.com)
-- 🐙 **GitHub:** [@CodedByManish](https://github.com/CodedByManish)
+- 📧 &nbsp;**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [**Manishkafle49@gmail.com**](mailto:Manishkafle49@gmail.com)
+- 🐙 &nbsp;**GitHub**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [**@CodedByManish**](https://github.com/CodedByManish)
+- 📘 &nbsp;**Facebook**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [**Manish Kafle**](https://www.facebook.com/manish.kafle.3348)
+
 
 ---
 
