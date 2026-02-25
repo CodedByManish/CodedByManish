@@ -52,17 +52,16 @@ While coding, I enjoy the **process more than the result** — refining logic, i
 ## Upcomming Core Projects
 
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **QuickPaste** | Secure text-sharing web app | Django |
-| **YT Downloader** | Web-based YouTube downloader | Django + yt-dlp |
-| **Cat Breed Detection System** | ML-powered breed prediction | Django + scikit-learn |
-| **Cyber Threat Analyzer** | Detect malicious inputs using ML + FastAPI | FastAPI + ML |
-| **Bhok-Lagyo** | Food delivery app with authentication, cart & order flow | Django Full-Stack |
-| **Real-Time Chat App** | WebSocket-based real-time messaging | Django + WebSockets |
-
+| Progression | Project | Description | Tech | Difficulty |
+|-------------|--------|-------------|------|------------|
+| <span style="color:#ff0000">15%</span> | **QuickPaste** | Secure text-sharing web app | Django | <span style="color:#ff0000">Easy</span> |
+| <span style="color:#ff9900">65%</span> | **YT Downloader** | Web-based YouTube downloader | Django + yt-dlp | <span style="color:#ff9900">Medium</span> |
+| <span style="color:#660000">NULL</span> | **Cat Breed Detection System** | ML-powered breed prediction | Django + scikit-learn | <span style="color:#660000">Hard</span> |
+| <span style="color:#55ff00">93%</span> | **Bhok-Lagyo** | Food delivery app with authentication, cart & order flow | Django Full-Stack | <span style="color:#55ff00">Easy-Medium</span> |
+| <span style="color:#33cc00">85%</span> | **Cyber Threat Analyzer** | Detect malicious inputs using ML + FastAPI | FastAPI + ML | <span style="color:#33cc00">Medium-Hard</span> |
+| <span style="color:#66cc00">60%</span> | **Real-Time Chat App** | WebSocket-based real-time messaging | Django + WebSockets | <span style="color:#66cc00">Medium</span> |
+| <span style="color:#00ff00">95%</span> | **Movie Recommendation System** | Suggest movies based on user ratings using ML | Django + scikit-learn | <span style="color:#00ff00">Medium-Hard</span> |
 > And continuously building more as I grow.
-
 
 ---
 
