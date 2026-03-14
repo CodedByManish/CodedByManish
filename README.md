@@ -16,18 +16,18 @@
 While coding, I enjoy the **process more than the result** — refining logic, improving structure, and solving problems step by step.
 
 
-📬 Reach me at: *Manishkafle49@gmail.com*
+📬 Reach me at: *Manishkafle03@gmail.com*
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥 Backend & APIs
-- Python
+### 🖥 Backend & Database
 - Django
 - FastAPI
-- REST API Development
-- WebSockets (Real-Time Systems)
+- PostgreSQL (for deployment on Render)  
+- PyAdmin (for database management)  
+- SQLite (for local development)
 
 ### 🌐 Frontend
 - HTML
@@ -36,15 +36,16 @@ While coding, I enjoy the **process more than the result** — refining logic, i
 - Tailwind CSS
 - React (Just learning)
 
-### 🤖 Machine Learning
-- scikit-learn
-- Data preprocessing
-- Model training & evaluation
-- ML integration with Django
+### 🤖 Machine Learning & AI
+- scikit-learn  
+- PyTorch  
+- Ollama
+- Data preprocessing & model training  
+- Reinforcement Learning (RL)  
+- ML integration with Django  
 
 ### 🛠 Tools
 - Git & GitHub
-- SQLite / Database Design
 - VS Code
 
 ---
