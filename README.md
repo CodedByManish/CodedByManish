@@ -77,7 +77,7 @@ While coding, I enjoy the **process more than the result** — refining logic, i
 
 ---
 
-## 📊 GitHub Stats & 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=dark&hide_border=false&count_private=true&layout=compact&card_width=600" alt="Manish's GitHub Stats" width="600" height="400"/>
