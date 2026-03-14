@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manish Kafle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+(Django);Machine+Learning+Enthusiast;Building+Intelligent+Web+Applications;Consistency+Over+Motivation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+(Django+%26+FastAPI);Machine+Learning+%26+AI+Enthusiast;Building+Intelligent+Web+Apps;" alt="Typing SVG" />
 </p>
 
 ---
