@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 🎓 BCA Student at *Mechi Multiple Campus* (2022 – Present)  
-💻 Focused on *Django Full-Stack Development*  
+💻 Focused on *Django/Fast-API Full-Stack Development*  
 🤖 Exploring *Machine Learning & AI Integration*  
 ⚡ Building real-world, intelligent web systems  
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,react,tailwind,pytorch,scikitlearn,git,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,git,vscode&perline=12" />
 
 </div>
 
@@ -41,19 +41,12 @@
 </p>
 
 ---
-## 🎴 GitStrength Card
-<img src="https://gitstrength.netlify.app/api/card-with-avatar?username=CodedByManish" width="100%"/>
----
-
-## 🌐 Connect With Me
 
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-CodedByManish-181717?style=flat-square&logo=github)](https://github.com/CodedByManish)
 [![Email](https://img.shields.io/badge/📧-Email-blue?style=flat-square)](mailto:Manishkafle03@gmail.com)
 
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
