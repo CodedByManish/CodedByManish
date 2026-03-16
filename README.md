@@ -41,11 +41,7 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodedByManish&theme=dark&no-frame=true&no-bg=true&margin-w=10" width="600"/>
-</div>
-
+<img src="https://gitstrength.netlify.app/api/card-with-avatar?username=CodedByManish" width="100%"/>
 ---
 
 ## 🌐 Connect With Me
