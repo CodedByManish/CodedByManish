@@ -15,41 +15,23 @@
 
 ---
 
-
 ## 🧰 Tech Stack
 
-### 🖥 Backend & Database
-- Django
-- FastAPI
-- PostgreSQL (for deployment on Render)  
-- PyAdmin (for database management)  
-- SQLite (for local development)
-
-### 🌐 Frontend
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- React (Just learning)
-
-### 🤖 Machine Learning & AI
-- scikit-learn  
-- PyTorch  
-- Ollama
-- Data preprocessing & model training  
-- Reinforcement Learning (RL)  
-- ML integration with Django  
-
-### 🛠 Tools
-- Git & GitHub
-- VS Code
+| Category | Technologies |
+|--------|--------------|
+| 🖥 **Backend** | Django, FastAPI |
+| 🗄 **Database** | PostgreSQL (Render), SQLite |
+| 🌐 **Frontend** | HTML, CSS, JavaScript, Tailwind CSS, React (learning) |
+| 🤖 **Machine Learning & AI** | scikit-learn, PyTorch, Ollama |
+| 📊 **ML Skills** | Data preprocessing, Model training, Reinforcement Learning, ML + Django integration |
+| 🛠 **Tools** | Git, GitHub, VS Code, PyAdmin |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=dark&hide_border=false&count_private=true&layout=compact&card_width=600" alt="Manish's GitHub Stats" width="600" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" width="600"/>
 </p>
 
 ---
