@@ -41,6 +41,7 @@
 </p>
 
 ---
+## 🎴 GitStrength Card
 <img src="https://gitstrength.netlify.app/api/card-with-avatar?username=CodedByManish" width="100%"/>
 ---
 
