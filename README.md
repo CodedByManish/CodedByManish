@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Manish Kafle 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Manish%20Kafle&desc=Full-Stack%20Developer%20and%20AI%20Enthusiast&fontSize=42&descSize=16&animation=fadeIn&color=0d1117,161b22,0d1117&fontColor=58a6ff&descColor=8b949e&fontAlignY=35&descAlignY=55" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+(Django+%26+FastAPI);Machine+Learning+%26+AI+Enthusiast;Building+Intelligent+Web+Apps;" alt="Typing SVG" />
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodedByManish-181717?style=flat-square&logo=github)](https://github.com/CodedByManish)
+[![Email](https://img.shields.io/badge/📧-Email-blue?style=flat-square)](mailto:Manishkafle03@gmail.com)
+
+</div>
 
 ---
 
@@ -17,28 +20,34 @@
 
 ## 🧰 Tech Stack
 
-| Category | Technologies |
-|--------|--------------|
-| 🖥 **Backend** | Django, FastAPI |
-| 🗄 **Database** | PostgreSQL (Render), SQLite |
-| 🌐 **Frontend** | HTML, CSS, JavaScript, Tailwind CSS, React (learning) |
-| 🤖 **Machine Learning & AI** | scikit-learn, PyTorch, Ollama |
-| 📊 **ML Skills** | Data preprocessing, Model training, Reinforcement Learning, ML + Django integration |
-| 🛠 **Tools** | Git, GitHub, VS Code, PyAdmin |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,react,tailwind,pytorch,scikitlearn,git,vscode&perline=11" />
+
+</div>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" width="600"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="600"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: *[Manishkafle03@gmail.com](mailto:Manishkafle03@gmail.com)*
-- 🐙 GitHub: [@CodedByManish](https://github.com/CodedByManish)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodedByManish-181717?style=flat-square&logo=github)](https://github.com/CodedByManish)
+[![Email](https://img.shields.io/badge/📧-Email-blue?style=flat-square)](mailto:Manishkafle03@gmail.com)
+
+</div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
