@@ -26,15 +26,24 @@
 
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="600"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="600"/>
+---
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedByManish&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff7b72&hide_border=false" width="600"/>
+</p>
 
+---
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodedByManish&theme=dark&no-frame=true&no-bg=true&margin-w=10" width="600"/>
 </div>
 
 ---
