@@ -10,11 +10,11 @@
 ---
 
 ## 👨‍💻 About Me
+- 🎓 BCA Student from *Nepal* 
+- 💻 Passionate about **Full Stack Development & AI**  
+- 🚀 Currently building real-world projects  
+- 📈 Learning & growing every day  
 
-🎓 BCA Student at *Mechi Multiple Campus* (2022 – Present)  
-💻 Focused on *Django/Fast-API Full-Stack Development*  
-🤖 Exploring *Machine Learning & AI Integration*  
-⚡ Building real-world, intelligent web systems  
 
 ---
 
