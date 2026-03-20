@@ -15,14 +15,13 @@
 - 🚀 Currently building real-world projects  
 - 📈 Learning & growing every day  
 
-
 ---
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,git,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,docker,git,vscode&perline=12" />
 
 </div>
 
@@ -35,10 +34,20 @@
 </div>
 
 ---
+
+## 🔥 My Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodedByManish&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=c9d1d9" width="600"/>
+</div>
+
+---
+
 ## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedByManish&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff7b72&hide_border=false" width="600"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedByManish&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="600"/>
+</div>
 
 ---
 
