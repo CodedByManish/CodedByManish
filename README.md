@@ -21,17 +21,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,docker,git,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,docker,git,vscode&perline=15" />
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodedByManish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="600"/>
 </div>
+
 
 ---
 
@@ -46,7 +46,7 @@
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedByManish&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="600"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedByManish&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=My+Coding+Journey" width="800"/>
 </div>
 
 ---
