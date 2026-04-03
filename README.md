@@ -12,8 +12,7 @@
 ## 👨‍💻 About Me
 - 🎓 BCA Student from *Nepal* 
 - 💻 Passionate about *Full Stack Development & AI* 
-- 🚀 Currently building real-world projects  
-- 📈 Learning & growing every day  
+- 🚀 Currently building real-world projects 
 
 ---
 
