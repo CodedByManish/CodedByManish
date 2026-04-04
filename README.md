@@ -26,12 +26,23 @@
 
 
 ---
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/card?username=codedbymanish&theme=dark&show_icons=true&hide=trend,streak,avg,prs,issues&text_size=12" 
+     style="width:75%; height:10%;" />
+
+</div>
+
+---
 
 ## 🔥 My Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CodedByManish&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=c9d1d9" width="600"/>
 </div>
+
 
 ---
 
