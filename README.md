@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Manish%20Kafle&desc=Full-Stack%20Developer%20and%20AI%20Enthusiast&fontSize=42&descSize=16&animation=fadeIn&color=0d1117,161b22,0d1117&fontColor=58a6ff&descColor=8b949e&fontAlignY=35&descAlignY=55" />
 
-<div align="center">
+<div align="center"> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-CodedByManish-181717?style=flat-square&logo=github)](https://github.com/CodedByManish)
 [![Email](https://img.shields.io/badge/📧-Email-blue?style=flat-square)](mailto:Manishkafle03@gmail.com)
