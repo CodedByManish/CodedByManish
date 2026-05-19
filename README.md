@@ -8,24 +8,6 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-- 🎓 BCA Student from *Nepal* 
-- 💻 Passionate about *Full Stack Development & AI* 
-- 🚀 Currently building real-world projects 
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flask,react,tailwind,pytorch,scikitlearn,docker,git,vscode&perline=15" />
-
-</div>
-
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
