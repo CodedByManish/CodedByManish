@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Manish%20Kafle&desc=Full-Stack%20Developer%20and%20AI%20Enthusiast&fontSize=42&descSize=16&animation=fadeIn&color=0:0d1117,50:2b1055,100:6d28d9&fontColor=58a6ff&descColor=8b949e&fontAlignY=35&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Manish%20Kafle&desc=Full-Stack%20Developer%20and%20AI%20Enthusiast&fontSize=42&descSize=16&animation=fadeIn&color=0:0d1117,50:2b1055,100:6d28d9&fontColor=58a6ff&descColor=8b949e&fontAlignY=35&descAlignY=55" />
 
 <div align="center"> 
 
@@ -7,8 +7,7 @@
 
 </div>
 
----
-## 📊 GitHub Stats
+## 
 
 <div align="center">
 
@@ -20,9 +19,7 @@
 
 </div>
 
----
-
-## 🔥 GitHub Activity
+##
 
 <div align="center">
 
@@ -36,31 +33,15 @@
 
 </div>
 
----
-
-## 📈 Contribution Flow
+##
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbymanish&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
----
+##
 
-## 🏆 Achievement Dashboard
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codedbymanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18&margin-h=18&column=7&title=Stars,Commits,Repositories,Followers,Issues,Experience,Organizations"/>
-
-</div>
-
----
-
-## ☕ Support Me
-<div align="center"> <a href="https://www.buymeacoffee.com/codedbymanish"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220" /> </a> </div>
-
-## 🌐 Connect Universe
 <div align="center"> <a href="https://github.com/codedbymanish"> <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github"/> </a> <a href="https://manish-kafle.com.np"> <img src="https://img.shields.io/badge/Website-Live-000?style=for-the-badge&logo=google-chrome"/> </a> </div>
 
 <!-- FOOTER --> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:2b1055,100:6d28d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:2b1055,100:6d28d9" />
